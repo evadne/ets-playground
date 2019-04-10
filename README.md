@@ -142,6 +142,8 @@ Special thanks to:
 
 - Mr Francesco Cesarini, for suggesting a deeper look into the performance characteristics of Atomics vs ETS-based counters.
 
+- Mr Wojtek Mach, for the [inspiration](https://github.com/wojtekmach/ets_ecto) regarding creation of an Ecto adapter for ETS.
+
 ## References
 
 Further Reference Materials can be found within the [Deck](https://speakerdeck.com/evadne/leveraging-ets-effectively).

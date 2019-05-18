@@ -22,6 +22,7 @@ defmodule Playground.MixProject do
     [
       {:ecto, "~> 3.0.1"},
       {:jason, "~> 1.1"},
+      {:sorted_set_nif, "~> 1.0.0"},
       {:stream_data, "~> 0.1"}
     ]
   end
